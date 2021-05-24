@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\noodl\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\noodl\\.nuget\\packages"
+    ]
+  }
+}
